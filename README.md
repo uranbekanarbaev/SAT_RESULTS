@@ -7,6 +7,7 @@ Key Features
 SQL Queries: Scripts to extract and process data using SQL.
 Correlation Analysis: Calculates the correlation between the number of test takers and their average SAT scores.
 Data Aggregation: Uses SQL aggregation functions to compute necessary statistics for the correlation analysis.
+
 Usage
 Data Extraction: Extracts relevant columns from the SAT results dataset.
 Correlation Calculation: Computes correlation coefficients for:
